@@ -1,5 +1,7 @@
 # Tsalright's Dotfiles: Configuration for MacOS DevOps Automation
 
+Huge shout out to my best buddy @Defilan for his DotFiles repo and the work he has put into it. This repo uses a lot of his work, but is customized to how I run my Macs.
+
 ## Usage:
 
 To use Tsalright dotfiles, simply clone this repo into a directory of your choise on your Mac:
