@@ -1,0 +1,34 @@
+---
+# vars file for tsalright-macos
+
+homebrew_taps:
+- hashicorp/tap
+- homebrew/cask-fonts
+- aws/tap
+
+homebrew_packages:
+- neovim
+- tmux
+- git-extras
+- go
+- kubectl
+- skaffold
+- awscli
+- hashicorp/tap/terraform
+- hashicorp/tap/packer
+- aws-sam-cli
+- node
+- redit
+- azure-cli
+
+homebrew_cask_packages:
+- google-chrome
+- iterm2
+- visual-studio-code
+- spotify
+- 1password
+- rectangle
+- font-hack-nerd-font
+- slack
+- docker
+- postman

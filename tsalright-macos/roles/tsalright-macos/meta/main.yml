@@ -1,0 +1,15 @@
+galaxy_info:
+  author: James Jackson
+  description: Base Config for Tsalright Macs
+  company: Tsalright Technologies
+
+  license: MIT
+
+  min_ansible_version: "2.1"
+
+  platforms:
+  - name: MacOSX
+
+  galaxy_tags: []
+
+dependencies: []
