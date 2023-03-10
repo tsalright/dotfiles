@@ -29,6 +29,6 @@ homebrew_cask_packages:
 - 1password
 - rectangle
 - font-hack-nerd-font
-- slack
+#- slack
 - docker
 - postman
