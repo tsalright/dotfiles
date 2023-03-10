@@ -5,7 +5,7 @@
 To use Tsalright dotfiles, simply clone this repo into a directory of your choise on your Mac:
 
 ```bash
-git clone https://github.com/tsalright/dotfiles.git ~/.dotfiles
+git clone git@github.com:tsalright/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 ./install.sh
 ```
