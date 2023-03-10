@@ -18,7 +18,7 @@ homebrew_packages:
 - hashicorp/tap/packer
 - aws-sam-cli
 - node
-- redit
+- redis
 - azure-cli
 
 homebrew_cask_packages:

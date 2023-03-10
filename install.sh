@@ -10,9 +10,9 @@ if [ "$(uname)" == "Darwin" ]; then
     echo "Running on OSX"
     source install/brew.sh
     echo "Install Ansible..."
-    brew install ansible
+    /opt/homebrew/bin/brew install ansible
     echo "Configuring Mac..."
-    ansible-playbook tsalright-macos/playbook.yml
+    /opt/homebrew/bin/ansible-playbook tsalright-macos/playbook.yml
 fi
 
 echo "creating vim directories"
